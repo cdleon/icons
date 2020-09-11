@@ -6,7 +6,7 @@
 
   * [CSS Sans](https://github.com/yusugomori/csssans) - CSS SANS is the font created with CSS, the computer language for web designing and typesetting. [http://yusugomori.com/projects/css-sans/](http://yusugomori.com/projects/css-sans/)
   * [Icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS. [http://saeedalipoor.github.io/icono/](http://saeedalipoor.github.io/icono/)
-  * [Littlebox](https://github.com/cmaddux/littlebox) - Super simple to implement, CSS-only icons. [http://littlebox.cabmaddux.com/](http://littlebox.cabmaddux.com/)
+  * [Littlebox](https://github.com/cmaddux/littlebox) - Super simple to implement, CSS-only icons.
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
 
 ## Font
@@ -50,10 +50,10 @@
   * [Eva Icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
   * [Evil Icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
   * [Feather](https://github.com/colebemis/feather) - Simply beautiful open source icons. [https://feathericons.com](https://feathericons.com)
-  * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
+  * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) -  A collection of all country flags in SVG — plus the CSS for easier integration. [https://flagicons.lipis.dev/](https://flagicons.lipis.dev/)
   * [Ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons. [https://ikonate.com](https://ikonate.com)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
-  * [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos. [https://edent.github.io/SuperTinyIcons/radius.html](https://edent.github.io/SuperTinyIcons/radius.html)
+  * [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos.
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
   * [SVG Logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos [http://svgporn.com/](http://svgporn.com/)
   * [SVG Porn](https://github.com/gilbarbara/logos) - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
