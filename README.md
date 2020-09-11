@@ -1,5 +1,7 @@
 # Icons
 
+[![Build Status](https://api.travis-ci.org/cdleon/icons.svg?branch=master)](https://travis-ci.org/cdleon/icons)
+
 ## CSS
 
   * [CSS Sans](https://github.com/yusugomori/csssans) - CSS SANS is the font created with CSS, the computer language for web designing and typesetting. [http://yusugomori.com/projects/css-sans/](http://yusugomori.com/projects/css-sans/)
