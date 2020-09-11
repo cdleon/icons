@@ -1,6 +1,6 @@
 # Icons
 
-##CSS
+## CSS
 
   * [CSS Sans](https://github.com/yusugomori/csssans) - CSS SANS is the font created with CSS, the computer language for web designing and typesetting. [http://yusugomori.com/projects/css-sans/](http://yusugomori.com/projects/css-sans/)
   * [Icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS. [http://saeedalipoor.github.io/icono/](http://saeedalipoor.github.io/icono/)
